@@ -1,0 +1,22 @@
+
+body
+{
+  background-image: url('https://cdn.hipwallpaper.com/i/69/66/Rdc3mE.jpg');
+background-repeat: no-repeat;
+    background-size: cover;
+}
+#place
+{
+    margin-left:300px;
+    background-color: limegreen;
+    width: 200px;
+    height:70px;
+}
+#cancel
+{
+margin-left:800px;
+margin-top:-70px;
+background-color: red;
+width: 200px;
+    height:70px;
+}

@@ -1,0 +1,354 @@
+body
+{
+    
+    background-color:#ddd;
+  
+  
+  }
+img
+{
+height: 250px;
+width:250px;
+margin-left:27px;
+margin-top:15px;
+margin-right:37.5px;
+transition: .5s ease;
+backface-visibility: hidden;
+padding: 0px;
+ -webkit-box-shadow:0 1px 69px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 69px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 69px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+
+}
+#sai
+{
+    margin-top:100px;
+    margin-left:500px;
+    height: 300px;
+    
+}
+#adosa
+{
+    background-color:limegreen;
+    width:45px;
+    margin-left:80px;
+    margin-top: 18px;
+    height:30px;
+    border-color: limegreen;
+}
+#ddosa
+{
+    background-color:red;
+    width:65px;
+    margin-top:-30px;
+    margin-left:160px;
+    height:30px;
+    border-color:#B22222;
+
+}
+#aidli
+{
+    background-color:limegreen;
+    width:45px;
+    margin-left:80px;
+    margin-top: 18px;
+    height:30px;
+    border-color: limegreen;
+}
+#didli
+{
+    background-color:red;
+    width:65px;
+    margin-top:-30px;
+    margin-left:160px;
+    height:30px;
+    border-color:red;
+}
+#avada
+{
+    background-color:limegreen;
+    width:45px;
+    margin-left:80px;
+    margin-top: 18px;
+    height:30px;
+    border-color: limegreen;
+}
+#dvada
+{
+    background-color:red;
+    width:65px;
+    margin-top:-30px;
+    margin-left:160px;
+    height:30px;
+    border-color:red;
+}
+#apongal
+{
+    background-color:limegreen;
+    width:45px;
+    margin-left:80px;
+    margin-top: 18px;
+    height:30px;
+    border-color: limegreen;
+}
+#dpongal
+{
+    background-color:red;
+    width:65px;
+    margin-top:-30px;
+    margin-left:160px;
+    height:30px;
+    border-color:red;
+
+}
+#aparota
+{
+    background-color:limegreen;
+    width:45px;
+    margin-left:80px;
+    margin-top: 18px;
+    height:30px;
+    border-color: limegreen;
+}
+#dparota
+{
+    background-color:red;
+    width:65px;
+    margin-top:-30px;
+    margin-left:160px;
+    height:30px;
+    border-color:red;
+}
+
+
+div.dosa
+{
+height: 330px;
+ width:300px;
+ margin-left:70px;
+ margin-top: 30px;
+
+ border-radius:10px;
+}
+div.idli
+{
+    margin-top:-330px;
+margin-left:500px;
+height: 330px;
+ width:300px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+
+ 
+}
+div.vada
+{
+    margin-top:-330px;
+margin-left:925px;
+height: 330px;
+ width:300px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+ 
+}
+
+div.pongal
+{
+height: 330px;
+ width:300px;
+ 
+ margin-left:70px;
+ margin-top: 100px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+
+}
+div.meals
+{
+    margin-top:-330px;
+margin-left:500px;
+height: 330px;
+ width:300px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+
+ 
+}
+div.parota
+{
+    margin-top:-330px;
+margin-left:925px;
+height: 330px;
+ width:300px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+ 
+}
+div.apam
+{
+height: 330px;
+ width:300px;
+margin-bottom: 60px;
+ margin-left:70px;
+ margin-top: 100px;
+ border-bottom-left-radius: 40px;
+ border-bottom-right-radius: 40px;
+ border-top-left-radius: 50px;
+ border-top-right-radius:50px;
+
+}
+#order
+  {
+    margin-left: 460px;
+    margin-top: 60px;
+    background-color:limegreen;
+    border-color: limegreen;
+    height:60px;
+    width:40%;
+
+    
+  }
+.header {
+    overflow: hidden;
+    background-color: black;
+    padding: 20px 10px;
+    margin-top:-1830px;
+    height: 33px;
+    width:1269px;
+    margin-left:-10px;
+    
+  }
+  
+  .header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    background-color: limegreen;
+    color: black;
+  }
+  
+  .header a.active {
+    background-color:limegreen;
+    color: white;
+  }
+  
+  .header-right {
+    float: right;
+  }
+  
+  @media screen and (max-width: 500px) {
+    .header a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .header-right {
+      float: none;
+    }
+  }
+  
+   
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    width:100px;
+    margin-left:160px;
+    margin-top: -200px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .dosa:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .dosa:hover .middle {
+    opacity: 1;
+  }
+  .idli:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+    
+  }
+  .idli:hover .middle {
+    opacity: 1;
+  }
+  .vada:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .vada:hover .middle {
+    opacity: 1;
+  }
+  .pongal:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .pongal:hover .middle {
+    opacity: 1;
+  }
+  .meals:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .meals:hover .middle {
+    opacity: 1;
+  }
+  .parota:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .parota:hover .middle {
+    opacity: 1;
+  }
+  .apam:hover .image {
+    opacity: 0.8;
+    height: 300px;
+     width:300px;
+  }
+  .apam:hover .middle {
+    opacity: 1;
+  }
+
+  .text {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    width:60px;
+    padding: 16px 32px;
+  }
+iframe
+  {
+    display: none;
+  }
